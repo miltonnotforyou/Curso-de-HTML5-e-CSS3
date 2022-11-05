@@ -1,0 +1,35 @@
+abcdef...
+
+binario 01
+
+numérico 0123456789
+
+hexadicimal 0123456789ABCDEF
+
+Cores : RGB = Red Green Blue
+
+#_ _ _ _ _ _
+ R R G G B B
+
+0 = ausencia
+
+F = Máximo
+
+#000000 - Preta
+
+#FFFFFF - Branca
+
+#FF0000 - Vermelha 
+
+Cores = nomes
+
+red
+blue
+yellow
+
+Dicionario RGB : 0,1,2,3,...255
+
+0 = Ausencia
+255 = máximo
+rgb(255,255,255) - branca
+rgb(0,0,255) - azul
