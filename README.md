@@ -3,7 +3,7 @@
 > Repositório para guardar os arquivos da pagina "Barbearia Alura" criados no curso de HTML5 e CSS3 da Alura modulos de 1 a 4
  
  ## Links Úteis
- [Link da Barbearia Alura](https://curso-de-html-5-e-css-3.vercel.app/index.html)
+ [Barbearia Alura](https://curso-de-html-5-e-css-3.vercel.app/index.html)
  
  [HTML suas tags estrutura basica - parte 1](https://www.alura.com.br/artigos/o-que-e-html-suas-tags-parte-1-estrutura-basica)
  
